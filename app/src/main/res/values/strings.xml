@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rating</string>
+    <string name="rating">RATING</string>
+    <string name="berikan_tips">Berikan Tips?</string>
+    <string name="submit">Submit</string>
+    <string name="reset">reset ?</string>
+</resources>
